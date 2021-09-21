@@ -23,13 +23,21 @@ Afterlife – экшн-игра для мобильных устройств о�
 
 В настройках не работает регулятор громкости звука – громкость не меняется при передвижении ползунка в настройках.
 
+https://user-images.githubusercontent.com/76455790/134156933-3f06e47b-d364-486f-82de-cf9b6670100b.mp4
+
+
 **Баг №2**
 
 <span style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, Geneva, &quot;Noto Sans Armenian&quot;, &quot;Noto Sans Bengali&quot;, &quot;Noto Sans Cherokee&quot;, &quot;Noto Sans Devanagari&quot;, &quot;Noto Sans Ethiopic&quot;, &quot;Noto Sans Georgian&quot;, &quot;Noto Sans Hebrew&quot;, &quot;Noto Sans Kannada&quot;, &quot;Noto Sans Khmer&quot;, &quot;Noto Sans Lao&quot;, &quot;Noto Sans Osmanya&quot;, &quot;Noto Sans Tamil&quot;, &quot;Noto Sans Telugu&quot;, &quot;Noto Sans Thai&quot;, sans-serif, arial, Tahoma, verdana; font-size: 13px;">Если оружие персонажа лазер, то игрок не сможет под собой сломать землю, потому что пули врезаются в боковую стенку, которая не ломается.</span>
 
+https://user-images.githubusercontent.com/76455790/134156973-5a089c64-2fe2-4935-ac01-b929fdc26a22.MP4
+
 **Баг №3**
 
 <span style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, Geneva, &quot;Noto Sans Armenian&quot;, &quot;Noto Sans Bengali&quot;, &quot;Noto Sans Cherokee&quot;, &quot;Noto Sans Devanagari&quot;, &quot;Noto Sans Ethiopic&quot;, &quot;Noto Sans Georgian&quot;, &quot;Noto Sans Hebrew&quot;, &quot;Noto Sans Kannada&quot;, &quot;Noto Sans Khmer&quot;, &quot;Noto Sans Lao&quot;, &quot;Noto Sans Osmanya&quot;, &quot;Noto Sans Tamil&quot;, &quot;Noto Sans Telugu&quot;, &quot;Noto Sans Thai&quot;, sans-serif, arial, Tahoma, verdana; font-size: 13px;">В меню лидерборд выводится меньше людей чем заявлено – вместо 100 всего лишь 54.</span>
+
+![leader](https://user-images.githubusercontent.com/76455790/134157062-dfdde741-3c71-4f93-9730-de8e212936c5.jpg)
+
 
 **Баг №4**
 
@@ -38,6 +46,8 @@ Afterlife – экшн-игра для мобильных устройств о�
 **Баг №5**
 
 <span style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, Geneva, &quot;Noto Sans Armenian&quot;, &quot;Noto Sans Bengali&quot;, &quot;Noto Sans Cherokee&quot;, &quot;Noto Sans Devanagari&quot;, &quot;Noto Sans Ethiopic&quot;, &quot;Noto Sans Georgian&quot;, &quot;Noto Sans Hebrew&quot;, &quot;Noto Sans Kannada&quot;, &quot;Noto Sans Khmer&quot;, &quot;Noto Sans Lao&quot;, &quot;Noto Sans Osmanya&quot;, &quot;Noto Sans Tamil&quot;, &quot;Noto Sans Telugu&quot;, &quot;Noto Sans Thai&quot;, sans-serif, arial, Tahoma, verdana; font-size: 13px;">Если зажать кнопку выстрела, игрок будет двигаеться вправо при прыжке.</span>
+
+https://user-images.githubusercontent.com/76455790/134157011-f604a99a-ea74-4389-90fa-41b8976998c7.MP4
 
 **Баг №6**
 
