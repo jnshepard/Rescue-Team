@@ -7,3 +7,4 @@
 – Астафьева Жанна
 – Воробьева Елизавета
 – Воронцова Елизавета
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/shorts/22H1GBpkGOk)
