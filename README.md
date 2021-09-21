@@ -43,6 +43,9 @@ https://user-images.githubusercontent.com/76455790/134156973-5a089c64-2fe2-4935-
 
 <span style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, Geneva, &quot;Noto Sans Armenian&quot;, &quot;Noto Sans Bengali&quot;, &quot;Noto Sans Cherokee&quot;, &quot;Noto Sans Devanagari&quot;, &quot;Noto Sans Ethiopic&quot;, &quot;Noto Sans Georgian&quot;, &quot;Noto Sans Hebrew&quot;, &quot;Noto Sans Kannada&quot;, &quot;Noto Sans Khmer&quot;, &quot;Noto Sans Lao&quot;, &quot;Noto Sans Osmanya&quot;, &quot;Noto Sans Tamil&quot;, &quot;Noto Sans Telugu&quot;, &quot;Noto Sans Thai&quot;, sans-serif, arial, Tahoma, verdana; font-size: 13px;">Приземление на противника – при приземлении на противника враг не получает урон, а также игрок и противник не отталкиваются.</span>
 
+https://user-images.githubusercontent.com/76455790/134159366-3baf3145-b794-420a-987e-a3dbb6323a6a.mp4
+
+
 **Баг №5**
 
 <span style="color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, Roboto, &quot;Helvetica Neue&quot;, Geneva, &quot;Noto Sans Armenian&quot;, &quot;Noto Sans Bengali&quot;, &quot;Noto Sans Cherokee&quot;, &quot;Noto Sans Devanagari&quot;, &quot;Noto Sans Ethiopic&quot;, &quot;Noto Sans Georgian&quot;, &quot;Noto Sans Hebrew&quot;, &quot;Noto Sans Kannada&quot;, &quot;Noto Sans Khmer&quot;, &quot;Noto Sans Lao&quot;, &quot;Noto Sans Osmanya&quot;, &quot;Noto Sans Tamil&quot;, &quot;Noto Sans Telugu&quot;, &quot;Noto Sans Thai&quot;, sans-serif, arial, Tahoma, verdana; font-size: 13px;">Если зажать кнопку выстрела, игрок будет двигаеться вправо при прыжке.</span>
